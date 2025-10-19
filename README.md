@@ -1,0 +1,2 @@
+# CB-PsyAutoBot
+BOT AUTO DAILY CHECK-IN
