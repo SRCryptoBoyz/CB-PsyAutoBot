@@ -10,8 +10,7 @@ cd CB-PsyAutoBot
 
 
 
-2. Install Dependencies = 
-   npm install
+2. Install Dependencies =    npm install
 
 
 
