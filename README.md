@@ -14,8 +14,7 @@ cd CB-PsyAutoBot
 
 
 
-3. Enter Your Bearer Token =  
-   nano token.txt
+3. Enter Your Bearer Token =   nano token.txt
 
 
 
