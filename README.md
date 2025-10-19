@@ -4,7 +4,7 @@ BOT AUTO DAILY CHECK-IN
 
 1. SET UP 
 
-git clone [https://github.com/SRCryptoBoyz/CB-PsyAutoBot.git]
+git clone https://github.com/SRCryptoBoyz/CB-PsyAutoBot.git
 
 cd CB-PsyAutoBot
 
