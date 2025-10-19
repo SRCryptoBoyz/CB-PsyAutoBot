@@ -1,8 +1,8 @@
 # CB-PsyAutoBot
 BOT AUTO DAILY CHECK-IN
 1. Set Up 
-git clone https://github.com/VinzSenzoo/PsyAutoBot-NTE
-cd PsyAutoBot-NTE
+git clone [https://github.com/VinzSenzoo/PsyAutoBot-NTE](https://github.com/SRCryptoBoyz/CB-PsyAutoBot.git)
+cd CB-PsyAutoBot
 
 2. Install Dependencies
 npm install
